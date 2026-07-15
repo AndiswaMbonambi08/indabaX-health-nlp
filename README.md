@@ -3,7 +3,7 @@
 ## 📌 Overview
 This repository contains the project developed during the **IndabaX South Africa Hackathon (July 2026)**, hosted on Zindi.  
 Our team built a multilingual health question answering system designed for low-resource African languages.  
-We ranked **6th out of 36 teams** in the competition.
+We ranked **6th out of 35 teams** in the competition.
 
 ## 🚀 Project Goals
 - Enable communities to access health information in multiple African languages.
@@ -17,13 +17,17 @@ We ranked **6th out of 36 teams** in the competition.
 - **Evaluation**: F1-score, accuracy metrics  
 
 ## 📂 Repository Structure
-├── data/              # Datasets used for training/testing ├── notebooks/         # Jupyter notebooks for experiments ├── src/               # Source code for models and preprocessing ├── results/           # Evaluation outputs and logs └── README.md
+├── data/         # Datasets used for training/testing
+├── notebooks/    # Jupyter notebooks for experiments
+├── src/          # Source code for models and preprocessing
+├── results/      # Evaluation outputs, logs, and final submission
+└── README.md     # Project documentation
 
 ## Project documentation
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/indabaX-health-nlp.git
+   git clone https://github.com/AndiswaMbonambi08/indabaX-health-nlp.git
 
 ## Install dependencies
 pip install -r requirements.txt
@@ -35,11 +39,15 @@ python src/train.py
 python src/evaluate.py
 
 🏆 Results
-Ranked 6th out of 36 teams.Achieved strong performance on multilingual health QA tasks.
+- Ranked 6th out of 35 teams.
+- Achieved strong performance on multilingual health QA tasks.
+- `results/final_submission.csv` — final predictions submitted to the public leaderboard (score 0.574223).
 
 
 🙌 Acknowledgments
-Zindi for hosting the hackathon.IndabaX South Africa for organizing the event.Team members and mentors who contributed to the project.
+- Zindi for hosting the hackathon.
+- IndabaX South Africa for organizing the event.
+- Team members and mentors who contributed to the project.
 
 
 ## Screenshots
