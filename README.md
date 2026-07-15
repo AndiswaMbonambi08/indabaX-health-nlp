@@ -43,7 +43,7 @@ Zindi for hosting the hackathon.IndabaX South Africa for organizing the event.Te
 
 
 ## Screenshots
-<img width="1841" height="997" alt="image" src="https://github.com/user-attachments/assets/989ad18d-255b-48b9-96af-1d99b8993f9d" />
+<img width="1829" height="1024" alt="image" src="https://github.com/user-attachments/assets/04b957c0-021c-4446-8a8a-3cc2467bae0c" />
 
 <img width="1797" height="967" alt="image" src="https://github.com/user-attachments/assets/75f5522e-df52-438e-9bf5-efc27a324706" />
 
