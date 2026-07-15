@@ -17,11 +17,16 @@ We ranked **6th out of 35 teams** in the competition.
 - **Evaluation**: F1-score, accuracy metrics  
 
 ## 📂 Repository Structure
-├── data/         # Datasets used for training/testing
-├── notebooks/    # Jupyter notebooks for experiments
-├── src/          # Source code for models and preprocessing
-├── results/      # Evaluation outputs, logs, and final submission
-└── README.md     # Project documentation
+├── data/        
+# Datasets used for training/testing
+├── notebooks/   
+# Jupyter notebooks for experiments
+├── src/         
+# Source code for models and preprocessing
+├── results/    
+# Evaluation outputs, logs, and final submission
+└── README.md    
+# Project documentation
 
 ## Project documentation
 ## ⚙️ How to Run
