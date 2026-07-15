@@ -42,3 +42,12 @@ Ranked 6th out of 36 teams.Achieved strong performance on multilingual health QA
 Zindi for hosting the hackathon.IndabaX South Africa for organizing the event.Team members and mentors who contributed to the project.
 
 
+## Screenshots
+<img width="1841" height="997" alt="image" src="https://github.com/user-attachments/assets/989ad18d-255b-48b9-96af-1d99b8993f9d" />
+
+<img width="1797" height="967" alt="image" src="https://github.com/user-attachments/assets/75f5522e-df52-438e-9bf5-efc27a324706" />
+
+<img width="1806" height="1024" alt="image" src="https://github.com/user-attachments/assets/369f1a61-22a3-459d-8ec0-c665173018a2" />
+
+
+
